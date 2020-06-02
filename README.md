@@ -1,6 +1,7 @@
 # Lab: Class 17 - Web Scraping
 
 ## Open Git Pull Requests  
+[https://github.com/joseph-zabaleta/web-scraper/pull/1](https://github.com/joseph-zabaleta/web-scraper/pull/1)  
 
 ## Overview  
 Coding up a web scraper that can automate the process of manually using the site.  
