@@ -6,6 +6,9 @@ authors = ["joseph-zabaleta <joseph.l.zabaleta@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pytest = "^5.4.3"
+watch = "^0.2.7"
+pywatch = "^0.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

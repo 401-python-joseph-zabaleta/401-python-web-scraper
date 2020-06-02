@@ -6,11 +6,11 @@
 Coding up a web scraper that can automate the process of manually using the site.  
 
 ## Feature Tasks and Requirements  
-- [ ] Scape a Wikipedia page and record which passages need citations.  
+- [x] Scape a Wikipedia page and record which passages need citations.  
     - E.g. [Battle of the Bulge](https://en.wikipedia.org/wiki/Battle_of_the_Bulge) has 10 "citation needed" cases, as of this writing.  
 
-- [ ] Your web scraper should report the number of citations needed.  
-- [ ] Your web scraper should identify those ten cases AND include the relevant passage.  
+- [x] Your web scraper should report the number of citations needed.  
+- [x] Your web scraper should identify those ten cases AND include the relevant passage.  
     - E.g. Citation needed for "lorem spam and impsum eggs"  
     - Consider the "relevant passage" to be the paragraph where it is found.  
 
